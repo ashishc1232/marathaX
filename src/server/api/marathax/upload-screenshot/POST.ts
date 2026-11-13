@@ -1,13 +1,19 @@
+
 import type { Request, Response } from 'express';
 import multer from 'multer';
 import path from 'path';
 import crypto from 'crypto';
 import fs from 'fs';
 
-const UPLOAD_DIR = '/shared-storage/public/assets/marathax-screenshots';
+const UPLOAD_DIR = path.join(
+  process.env.UPLOAD_DIR || '/tmp',
+  'marathax-screenshots'
+);
 
-// Ensure upload dir exists at module load
-if (!fs.existsSync(UPLOAD_DIR)) fs.mkdirSync(UPLOAD_DIR, { recursive: true });
+// Create writable upload directory
+if (!fs.existsSync(UPLOAD_DIR)) {
+  fs.mkdirSync(UPLOAD_DIR, { recursive: true });
+}
 
 const storage = multer.diskStorage({
   destination: (_req, _file, cb) => cb(null, UPLOAD_DIR),
@@ -19,7 +25,10 @@ const storage = multer.diskStorage({
 });
 
 const ALLOWED_MIME = new Set([
-  'image/jpeg', 'image/jpg', 'image/png', 'application/pdf',
+  'image/jpeg',
+  'image/jpg',
+  'image/png',
+  'application/pdf',
 ]);
 
 const upload = multer({
@@ -40,14 +49,19 @@ export default function handler(req: Request, res: Response): void {
       res.status(400).json({ error: 'File too large. Maximum size is 5 MB.' });
       return;
     }
+
     if (err) {
-      res.status(400).json({ error: err instanceof Error ? err.message : 'Upload failed.' });
+      res.status(400).json({
+        error: err instanceof Error ? err.message : 'Upload failed.',
+      });
       return;
     }
+
     if (!req.file) {
       res.status(400).json({ error: 'No file received.' });
       return;
     }
+
     res.json({ filename: req.file.filename });
   });
 }
