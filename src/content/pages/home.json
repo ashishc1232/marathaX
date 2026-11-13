@@ -1,0 +1,164 @@
+{
+  "announcement": {
+    "text": "NEXT EVENT",
+    "cta": "FIND OUT MORE",
+    "ctaHref": "/find-your-race",
+    "targetDate": "2026-12-05T09:00:00.000Z"
+  },
+  "hero": {
+    "eyebrow": "RUN. LIFT. LIVE.",
+    "title": "HYFIT GAMES",
+    "subtitle": "6 functional stations. 1 cognitive challenge. 200m runs.",
+    "tagline": "Open to ages 8 to 84.",
+    "primaryCta": "Find your race",
+    "primaryCtaHref": "/find-your-race",
+    "secondaryCta": "Race format →",
+    "secondaryCtaHref": "/race-format",
+    "videoUrl": "https://www.hyfitgames.com/videos/mumbai.mp4"
+  },
+  "partners": {
+    "label": "Powered by",
+    "logos": [
+      {
+        "id": "p1",
+        "name": "Phab"
+      },
+      {
+        "id": "p2",
+        "name": "UpUrFit"
+      },
+      {
+        "id": "p3",
+        "name": "The Health Factory"
+      },
+      {
+        "id": "p4",
+        "name": "Noice"
+      },
+      {
+        "id": "p5",
+        "name": "Enrich"
+      },
+      {
+        "id": "p6",
+        "name": "Wrogn"
+      },
+      {
+        "id": "p7",
+        "name": "True Basics"
+      },
+      {
+        "id": "p8",
+        "name": "Fast & Up"
+      }
+    ]
+  },
+  "race": {
+    "eyebrow": "THE RACE",
+    "title": "6 STATIONS. 1 COGNITIVE CHALLENGE.",
+    "body": "It tests balance, strength, endurance, mobility and agility, hosted indoors. Ages 8 to 84, and every category scales to your level.",
+    "cta1": "SEE THE CATEGORIES →",
+    "cta1Href": "/race-format",
+    "cta2": "SEE THE RACE FORMAT →",
+    "cta2Href": "/race-format"
+  },
+  "season": {
+    "eyebrow": "THE 2026 SEASON",
+    "title": "WE ARE HEADING TO",
+    "allRacesCta": "ALL RACES →",
+    "allRacesHref": "/find-your-race",
+    "events": [
+      {
+        "id": "e1",
+        "date": "5-6 DEC 2026",
+        "edition": "2026 EDITION",
+        "city": "DELHI",
+        "href": "/find-your-race/delhi"
+      },
+      {
+        "id": "e2",
+        "date": "14 FEB 2027",
+        "edition": "2027 EDITION",
+        "city": "GUJARAT",
+        "href": "/find-your-race/ahmedabad"
+      },
+      {
+        "id": "e3",
+        "date": "DATES COMING SOON",
+        "edition": "2027 EDITION",
+        "city": "HYDERABAD",
+        "href": "/find-your-race"
+      }
+    ]
+  },
+  "judge": {
+    "eyebrow": "BECOME A JUDGE",
+    "titlePart1": "HOLD THE ",
+    "titlePart2": "STANDARD.",
+    "body": "Judging is the backbone of every Hyfit Games. No experience needed, you hold the standard that makes the result mean something.",
+    "cta": "START YOUR CERTIFICATION →",
+    "ctaHref": "/become-a-judge"
+  },
+  "brands": {
+    "eyebrow": "FOR BRANDS",
+    "title": "PUT YOUR BRAND IN THE ARENA",
+    "body": "Sponsorship, sampling and on-ground activation to a health-forward crowd across India.",
+    "cta": "PARTNER WITH US →",
+    "ctaHref": "/partner-with-us"
+  },
+  "legacyPartners": {
+    "eyebrow": "EVERY BRAND THAT HAS BACKED THE RACE",
+    "titlePart1": "LEGACY ",
+    "titlePart2": "PARTNERS",
+    "logos": [
+      {
+        "id": "lp1",
+        "name": "Hudle"
+      },
+      {
+        "id": "lp2",
+        "name": "Miild"
+      },
+      {
+        "id": "lp3",
+        "name": "Supply6"
+      },
+      {
+        "id": "lp4",
+        "name": "True Basics"
+      },
+      {
+        "id": "lp5",
+        "name": "Wrogn"
+      },
+      {
+        "id": "lp6",
+        "name": "Phab"
+      },
+      {
+        "id": "lp7",
+        "name": "Fast & Up"
+      },
+      {
+        "id": "lp8",
+        "name": "Noice"
+      },
+      {
+        "id": "lp9",
+        "name": "Enrich"
+      },
+      {
+        "id": "lp10",
+        "name": "Tribal Brew Coffee"
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "India's hybrid fitness race. 6 functional stations. 1 cognitive challenge. 200m runs. Open to ages 8 to 84.",
+    "instagramUrl": "https://instagram.com/hyfitgames",
+    "linkedinUrl": "https://www.linkedin.com/company/hyfitgames/",
+    "email": "contact@hyfitgames.com",
+    "address": "HSR Layout, Bengaluru, Karnataka 560034",
+    "copyright": "© 2026 Hyfit Games. Powered by Cult."
+  }
+}

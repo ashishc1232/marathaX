@@ -1,0 +1,89 @@
+{
+  "hero": {
+    "eyebrow": "10 JANUARY 2027",
+    "title": "MARATHAX",
+    "subtitle": "India's Fittest Challenge",
+    "body": "The ultimate military-style fitness gauntlet. Six running sections. Six workout stations. One champion.",
+    "prizeLabel": "Total Prize Pool",
+    "prize": "₹3,00,000+",
+    "cta": "Register Now",
+    "ctaHref": "/register",
+    "learnMore": "Explore the Format",
+    "learnMoreHref": "/event-format"
+  },
+  "stats": [
+    {
+      "id": "s1",
+      "value": "₹3,00,000+",
+      "label": "Prize Pool"
+    },
+    {
+      "id": "s2",
+      "value": "6",
+      "label": "Stations"
+    },
+    {
+      "id": "s3",
+      "value": "6+",
+      "label": "Categories"
+    },
+    {
+      "id": "s4",
+      "value": "1 Day",
+      "label": "Event"
+    }
+  ],
+  "about": {
+    "eyebrow": "WHAT IS MARATHAX",
+    "title": "BUILT FOR THE FITTEST",
+    "body": "MARATHAX is not a race. It is a reckoning. Inspired by military selection tests, it combines explosive running with functional strength stations to find India's fittest athlete.",
+    "cta": "Learn More",
+    "ctaHref": "/about"
+  },
+  "format": {
+    "eyebrow": "THE CHALLENGE",
+    "title": "6 RUNS. 6 STATIONS.",
+    "body": "Alternate between 200m sprint sections and demanding workout stations. Every rep counts. Every second matters.",
+    "cta": "See Full Format",
+    "ctaHref": "/event-format",
+    "items": [
+      {
+        "id": "f1",
+        "icon": "run",
+        "label": "200m Sprint Sections"
+      },
+      {
+        "id": "f2",
+        "icon": "lift",
+        "label": "Functional Workout Stations"
+      },
+      {
+        "id": "f3",
+        "icon": "team",
+        "label": "Individual & Doubles"
+      },
+      {
+        "id": "f4",
+        "icon": "age",
+        "label": "Multiple Age Categories"
+      }
+    ]
+  },
+  "prizes": {
+    "eyebrow": "PRIZES",
+    "title": "COMPETE FOR GLORY",
+    "aotLabel": "Athlete of the Tournament",
+    "aotCash": "₹20,000 Cash",
+    "aotExtra": "+ Elite Running Shoes",
+    "cta": "View All Categories",
+    "ctaHref": "/categories-prizes"
+  },
+  "cta": {
+    "eyebrow": "READY TO COMPETE?",
+    "title": "REGISTER NOW",
+    "body": "Spots are limited. Secure your place at India's most demanding fitness challenge.",
+    "cta": "Register Now",
+    "ctaHref": "/register",
+    "date": "10 January 2027"
+  }
+}

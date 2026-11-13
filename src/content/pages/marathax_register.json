@@ -1,0 +1,19 @@
+{
+  "hero": {
+    "eyebrow": "10 January 2027",
+    "title": "REGISTER",
+    "body": "Complete the form below. Payment details will be sent to your email after submission."
+  },
+  "payment": {
+    "label": "Payment Information",
+    "body": "Registration fees and payment instructions will be sent to your email address after you submit this form. Your spot is not confirmed until payment is completed. Do not make any payment until you receive official instructions from the MARATHAX team."
+  },
+  "terms": {
+    "label": "I confirm that the information provided is accurate. I understand the physical demands of MARATHAX and participate at my own risk. I agree to the event terms and conditions."
+  },
+  "submitLabel": "Submit Registration",
+  "successTitle": "Registration Received",
+  "successBody": "We will send payment and confirmation details to your email shortly. Please check your inbox.",
+  "successNote": "Your spot is not confirmed until payment is completed. Watch for our email with payment instructions. For queries, contact us at info@marathax.in.",
+  "successRegisterAnother": "Register another athlete"
+}

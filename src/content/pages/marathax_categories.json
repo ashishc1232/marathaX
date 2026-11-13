@@ -1,0 +1,131 @@
+{
+  "hero": {
+    "eyebrow": "CATEGORIES & PRIZES",
+    "title": "COMPETE. WIN. DOMINATE.",
+    "body": "Multiple categories ensure every athlete competes on a level playing field. Total prize pool ₹3 Lakh+. Find your category and register today."
+  },
+  "aot": {
+    "eyebrow": "HIGHEST HONOUR",
+    "title": "ATHLETE OF THE TOURNAMENT",
+    "body": "Awarded to the single most outstanding performer across all categories on the day. Judged on performance, form, attitude and overall score.",
+    "prize": "Elite Running Shoes worth ₹20,000+"
+  },
+  "totalPool": "₹3 LAKH+",
+  "eventDate": "10 January 2027",
+  "openSection": {
+    "title": "Male & Female Open Categories",
+    "rows": [
+      {
+        "id": "o1",
+        "category": "Male Open",
+        "ageGroup": "16 – 29",
+        "p1": "₹15,000",
+        "p2": "₹10,000",
+        "p3": "₹5,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      },
+      {
+        "id": "o2",
+        "category": "Male Open",
+        "ageGroup": "30 – 45",
+        "p1": "₹15,000",
+        "p2": "₹10,000",
+        "p3": "₹5,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      },
+      {
+        "id": "o3",
+        "category": "Male Open",
+        "ageGroup": "46 – 55",
+        "p1": "₹15,000",
+        "p2": "₹10,000",
+        "p3": "₹5,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      },
+      {
+        "id": "o4",
+        "category": "Female Open",
+        "ageGroup": "16 – 29",
+        "p1": "₹15,000",
+        "p2": "₹10,000",
+        "p3": "₹5,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      },
+      {
+        "id": "o5",
+        "category": "Female Open",
+        "ageGroup": "30 – 45",
+        "p1": "₹15,000",
+        "p2": "₹10,000",
+        "p3": "₹5,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      },
+      {
+        "id": "o6",
+        "category": "Female Open",
+        "ageGroup": "46 – 55",
+        "p1": "₹15,000",
+        "p2": "₹10,000",
+        "p3": "₹5,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      }
+    ]
+  },
+  "doublesSection": {
+    "title": "Doubles Categories",
+    "rows": [
+      {
+        "id": "d1",
+        "category": "Male Doubles",
+        "ageGroup": "18 – 55",
+        "p1": "₹10,000",
+        "p2": "₹5,000",
+        "p3": "₹3,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      },
+      {
+        "id": "d2",
+        "category": "Female Doubles",
+        "ageGroup": "18 – 55",
+        "p1": "₹10,000",
+        "p2": "₹5,000",
+        "p3": "₹3,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      },
+      {
+        "id": "d3",
+        "category": "Mixed Doubles",
+        "ageGroup": "18 – 55",
+        "p1": "₹10,000",
+        "p2": "₹5,000",
+        "p3": "₹3,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      }
+    ]
+  },
+  "risingStarSection": {
+    "title": "Rising Star",
+    "rows": [
+      {
+        "id": "r1",
+        "category": "Rising Star (8 – 15)",
+        "ageGroup": "8 – 15",
+        "p1": "₹10,000",
+        "p2": "₹5,000",
+        "p3": "₹3,000",
+        "p4": "Running Shoes",
+        "p5": "Smart Watch"
+      }
+    ]
+  },
+  "note": "All prizes are per individual unless stated. Doubles prizes are per team. Age eligibility verified on race day with valid government ID."
+}

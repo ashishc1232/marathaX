@@ -1,0 +1,67 @@
+{
+  "hero": {
+    "eyebrow": "ABOUT MARATHAX",
+    "title": "FORGED IN DISCIPLINE",
+    "body": "MARATHAX is India's premier military-style fitness challenge — a test of strength, endurance, speed and mental toughness unlike anything else."
+  },
+  "mission": {
+    "eyebrow": "OUR MISSION",
+    "title": "FIND INDIA'S FITTEST",
+    "body": "We believe true fitness is not just about lifting heavy or running fast — it is about doing both, under pressure, when it counts. MARATHAX was built to find athletes who can."
+  },
+  "pillars": [
+    {
+      "id": "p1",
+      "title": "STRENGTH",
+      "body": "Functional strength stations test your ability to move heavy loads efficiently under fatigue."
+    },
+    {
+      "id": "p2",
+      "title": "ENDURANCE",
+      "body": "Repeated running sections push your cardiovascular system to its absolute limit."
+    },
+    {
+      "id": "p3",
+      "title": "SPEED",
+      "body": "Sprint sections reward explosive power and fast-twitch muscle performance."
+    },
+    {
+      "id": "p4",
+      "title": "MENTAL TOUGHNESS",
+      "body": "When your body wants to stop, your mind decides whether you do. MARATHAX tests both."
+    }
+  ],
+  "military": {
+    "eyebrow": "MILITARY INSPIRED",
+    "title": "THE SPIRIT OF A SOLDIER",
+    "body": "Every element of MARATHAX is inspired by military selection and combat fitness tests used by armed forces around the world. The format demands that you keep moving, keep performing, and never quit — regardless of how you feel.",
+    "quote": "The body achieves what the mind believes.",
+    "quoteAuthor": "MARATHAX Creed"
+  },
+  "values": [
+    {
+      "id": "v1",
+      "label": "Discipline"
+    },
+    {
+      "id": "v2",
+      "label": "Grit"
+    },
+    {
+      "id": "v3",
+      "label": "Honour"
+    },
+    {
+      "id": "v4",
+      "label": "Excellence"
+    },
+    {
+      "id": "v5",
+      "label": "Community"
+    },
+    {
+      "id": "v6",
+      "label": "Courage"
+    }
+  ]
+}

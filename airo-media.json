@@ -1,0 +1,915 @@
+{
+  "logo/horizontal": {
+    "mediaType": "logo",
+    "currentUrl": "/airo-assets/uploads/f5f6c47d59b0db59d7a4e469ff088016.ico",
+    "searchQuery": "Rebuild source logo (favicon)",
+    "alternatives": [],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:03:55.018Z",
+    "lastUpdated": "2026-11-09T04:03:55.018Z"
+  },
+  "pages/home/gujarat-venue": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/1676fff4f134d4aca1f9957390ce091a.jpg",
+    "searchQuery": "Gujarat India temple architecture landmark",
+    "alternatives": [
+      "/airo-assets/uploads/3260c7f4e7bfa1897409fdeeead441f2.jpg",
+      "/airo-assets/uploads/100e0217ecdab62f7891c327a5f7b8d1.jpg",
+      "/airo-assets/uploads/77b3acc22f1a54c4ae128c88697f89ec.jpg",
+      "/airo-assets/uploads/d5c7919ff62a19dd85afaefc08fead32.jpg",
+      "/airo-assets/uploads/0ddaa08bb0f82945310c8acc71e81756.png"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:04:43.810Z",
+    "lastUpdated": "2026-11-09T04:04:43.810Z"
+  },
+  "pages/home/judge-section": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/77b3acc22f1a54c4ae128c88697f89ec.jpg",
+    "searchQuery": "fitness competition judge official event indoor sports",
+    "alternatives": [
+      "/airo-assets/uploads/1e00395bd0388c350db8423e6447b270.jpg",
+      "/airo-assets/uploads/d5c7919ff62a19dd85afaefc08fead32.jpg",
+      "/airo-assets/uploads/3260c7f4e7bfa1897409fdeeead441f2.jpg",
+      "/airo-assets/uploads/100e0217ecdab62f7891c327a5f7b8d1.jpg",
+      "/airo-assets/uploads/0ddaa08bb0f82945310c8acc71e81756.png"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:04:43.817Z",
+    "lastUpdated": "2026-11-09T04:04:43.817Z"
+  },
+  "pages/home/hyderabad-venue": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/3260c7f4e7bfa1897409fdeeead441f2.jpg",
+    "searchQuery": "Hyderabad India Charminar landmark architecture",
+    "alternatives": [
+      "/airo-assets/uploads/100e0217ecdab62f7891c327a5f7b8d1.jpg",
+      "/airo-assets/uploads/d5c7919ff62a19dd85afaefc08fead32.jpg",
+      "/airo-assets/uploads/0ddaa08bb0f82945310c8acc71e81756.png",
+      "/airo-assets/uploads/3b38ec8ee15f6121e185f5e122589e7c.png",
+      "/airo-assets/uploads/66c1bc085b7d4bb3690eeaadd56bcec8.png"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:04:43.820Z",
+    "lastUpdated": "2026-11-09T04:04:43.820Z"
+  },
+  "pages/home/partner-truebasics": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/94297a94e6822ba1f0302158afbb651f.png",
+    "searchQuery": "True Basics nutrition supplement brand logo",
+    "alternatives": [
+      "/airo-assets/uploads/100e0217ecdab62f7891c327a5f7b8d1.jpg",
+      "/airo-assets/uploads/d5c7919ff62a19dd85afaefc08fead32.jpg",
+      "/airo-assets/uploads/0ddaa08bb0f82945310c8acc71e81756.png",
+      "/airo-assets/uploads/3b38ec8ee15f6121e185f5e122589e7c.png",
+      "/airo-assets/uploads/66c1bc085b7d4bb3690eeaadd56bcec8.png"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:04:43.822Z",
+    "lastUpdated": "2026-11-09T04:04:43.822Z"
+  },
+  "pages/home/delhi-venue": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/100e0217ecdab62f7891c327a5f7b8d1.jpg",
+    "searchQuery": "Delhi India Red Fort landmark architecture",
+    "alternatives": [
+      "/airo-assets/uploads/d5c7919ff62a19dd85afaefc08fead32.jpg",
+      "/airo-assets/uploads/0ddaa08bb0f82945310c8acc71e81756.png",
+      "/airo-assets/uploads/3b38ec8ee15f6121e185f5e122589e7c.png",
+      "/airo-assets/uploads/66c1bc085b7d4bb3690eeaadd56bcec8.png",
+      "/airo-assets/uploads/2da28b61a9fa0dcaa07bfa1906d0f6fb.png"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:04:43.837Z",
+    "lastUpdated": "2026-11-09T04:04:43.837Z"
+  },
+  "marathax/hero-athlete": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2077991171",
+    "searchQuery": "military fitness athlete running obstacle course intense action",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/657681738",
+      "https://img1.wsimg.com/isteam/getty/1204418948",
+      "https://img1.wsimg.com/isteam/getty/657672458",
+      "https://img1.wsimg.com/isteam/getty/1204423957"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:08:41.243Z",
+    "lastUpdated": "2026-11-09T04:08:41.243Z",
+    "gettyId": "2077991171",
+    "alternativeGettyIds": [
+      "657681738",
+      "1204418948",
+      "657672458",
+      "1204423957"
+    ]
+  },
+  "marathax/about-hero": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/657672458",
+    "searchQuery": "military fitness training soldiers endurance challenge outdoor",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/1413054705",
+      "https://img1.wsimg.com/isteam/getty/2170586788"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:08:50.435Z",
+    "lastUpdated": "2026-11-09T04:08:50.435Z",
+    "gettyId": "657672458",
+    "alternativeGettyIds": [
+      "1413054705",
+      "2170586788"
+    ]
+  },
+  "marathax/format-running": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1327476950",
+    "searchQuery": "athletes running race track competition sprint intense",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2224298119",
+      "https://img1.wsimg.com/isteam/getty/1458401333"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:08:57.981Z",
+    "lastUpdated": "2026-11-09T04:08:57.981Z",
+    "gettyId": "1327476950",
+    "alternativeGettyIds": [
+      "2224298119",
+      "1458401333"
+    ]
+  },
+  "marathax/gallery-1": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1410098396",
+    "searchQuery": "obstacle course race mud run athletes competition",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2245795724",
+      "https://img1.wsimg.com/isteam/getty/1001434954"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:09:06.064Z",
+    "lastUpdated": "2026-11-09T04:09:06.064Z",
+    "gettyId": "1410098396",
+    "alternativeGettyIds": [
+      "2245795724",
+      "1001434954"
+    ]
+  },
+  "marathax/gallery-2": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2232464450",
+    "searchQuery": "crossfit athlete lifting barbell competition gym intense",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2242906791",
+      "https://img1.wsimg.com/isteam/getty/2232464451"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:09:15.680Z",
+    "lastUpdated": "2026-11-09T04:09:15.680Z",
+    "gettyId": "2232464450",
+    "alternativeGettyIds": [
+      "2242906791",
+      "2232464451"
+    ]
+  },
+  "marathax/gallery-3": {
+    "orientations": "vertical",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1063019646",
+    "searchQuery": "fitness competition athletes rope climbing challenge event",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2260844393",
+      "https://img1.wsimg.com/isteam/getty/697518130"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:09:23.785Z",
+    "lastUpdated": "2026-11-09T04:09:23.785Z",
+    "gettyId": "1063019646",
+    "alternativeGettyIds": [
+      "2260844393",
+      "697518130"
+    ]
+  },
+  "marathax/gallery-4": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2235378583",
+    "searchQuery": "athlete sprinting finish line race victory celebration",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2143554376",
+      "https://img1.wsimg.com/isteam/getty/2148699680"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:09:33.210Z",
+    "lastUpdated": "2026-11-09T04:09:33.210Z",
+    "gettyId": "2235378583",
+    "alternativeGettyIds": [
+      "2143554376",
+      "2148699680"
+    ]
+  },
+  "marathax/gallery-5": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1015375342",
+    "searchQuery": "military style fitness training burpees pushups outdoor challenge",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2293483523",
+      "https://img1.wsimg.com/isteam/getty/902520540"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:09:42.501Z",
+    "lastUpdated": "2026-11-09T04:09:42.501Z",
+    "gettyId": "1015375342",
+    "alternativeGettyIds": [
+      "2293483523",
+      "902520540"
+    ]
+  },
+  "marathax/gallery-6": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1457546193",
+    "searchQuery": "team fitness challenge event crowd participants outdoor India",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/495698527",
+      "https://img1.wsimg.com/isteam/getty/1781826138"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:09:50.646Z",
+    "lastUpdated": "2026-11-09T04:09:50.646Z",
+    "gettyId": "1457546193",
+    "alternativeGettyIds": [
+      "495698527",
+      "1781826138"
+    ]
+  },
+  "pages/marathax/mumbai-poster": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/pages-marathax-mumbai-poster-2ffe893c.jpg",
+    "searchQuery": "maratha fitness competition event poster 2027",
+    "alternatives": [
+      "/airo-assets/uploads/pages-marathax-mumbai-poster-f575bfad.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T04:20:20.393Z",
+    "lastUpdated": "2026-11-09T17:26:34.557Z",
+    "uploadSources": {
+      "/airo-assets/uploads/pages-marathax-mumbai-poster-f575bfad.jpg": "05qk87j31r_1794197531914_file_Jd-GTCDRLT.jpg",
+      "/airo-assets/uploads/pages-marathax-mumbai-poster-2ffe893c.jpg": "05qk87j31r_1794245183950_file_dxbQLsPWCn.jpg"
+    },
+    "uploadContentHash": "5f4e51e685016da93050d07cbfbcd930350a7db48d8f3ca1bbe1a8f030d1a5bd",
+    "caption": "maratha fitness competition event poster 2027"
+  },
+  "marathax/ambassador-1": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/remove-all-text-logos-and-branding-from--Dw50cg.png",
+    "searchQuery": "male runner competing in yoddha race event",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-ambassador-1-96bd6ee6.jpg",
+      "/airo-assets/uploads/marathax-ambassador-1-152b04d1.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T04:26:54.768Z",
+    "lastUpdated": "2026-11-09T17:50:43.801Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-ambassador-1-152b04d1.jpg": "05qk87j31r_1794198109508_file_rYmgeNSKFT.jpg",
+      "/airo-assets/uploads/marathax-ambassador-1-96bd6ee6.jpg": "05qk87j31r_1794242679264_file_gXVFa-SZhI.jpeg"
+    },
+    "uploadContentHash": "669c04d50451dd29fc1a39b0a3cc3a5e217f32a4a360af45ea8b24c8fb6026d0",
+    "caption": "male runner competing in yoddha race event",
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/remove-all-text-logos-and-branding-from--Dw50cg.png"
+    ]
+  },
+  "marathax/ambassador-2": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/remove-all-text-logos-and-branding-from--ZGQY8a.png",
+    "searchQuery": "runner receiving second place award yoddha race",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-ambassador-2-9bcf1625.jpg",
+      "/airo-assets/uploads/marathax-ambassador-2-b1e8a262.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T04:26:55.027Z",
+    "lastUpdated": "2026-11-09T17:51:02.094Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-ambassador-2-b1e8a262.jpg": "05qk87j31r_1794198149633_file_jbOzJDz-75.jpg",
+      "/airo-assets/uploads/marathax-ambassador-2-9bcf1625.jpg": "05qk87j31r_1794242679273_file_rxuv-7q-zK.jpeg"
+    },
+    "uploadContentHash": "e4936dbdc3efa86c85f343c7c74b717be49b8e84dc8ff812584ac92eac7bd30d",
+    "caption": "runner receiving second place award yoddha race",
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/remove-all-text-logos-and-branding-from--ZGQY8a.png"
+    ]
+  },
+  "marathax/declaration-reference": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-declaration-reference-73da5c51.jpg",
+    "searchQuery": "maratha fitness competition event poster",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T04:33:02.353Z",
+    "lastUpdated": "2026-11-09T04:33:02.353Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-declaration-reference-73da5c51.jpg": "05qk87j31r_1794197338554_file_jj6Kf7zmbg.jpg"
+    },
+    "uploadContentHash": "d3e01485568b25745e0db3a629a496c7a13084618785a995e9dc053150e2bf78",
+    "caption": "maratha fitness competition event poster"
+  },
+  "marathax/rising-star-kids": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/1487005863",
+    "searchQuery": "kids children running race sports competition energetic",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2222891927",
+      "https://img1.wsimg.com/isteam/getty/1599099449",
+      "https://img1.wsimg.com/isteam/getty/83266618",
+      "https://img1.wsimg.com/isteam/getty/1186947892"
+    ],
+    "userModified": false,
+    "createdAt": "2026-11-09T04:57:40.101Z",
+    "lastUpdated": "2026-11-09T04:57:40.101Z",
+    "gettyId": "1487005863",
+    "alternativeGettyIds": [
+      "2222891927",
+      "1599099449",
+      "83266618",
+      "1186947892"
+    ]
+  },
+  "marathax/gallery-7": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-7-4e13a31a.png",
+    "searchQuery": "crossfit workout exercise routine guide",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-7-3df8a668.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T05:06:31.168Z",
+    "lastUpdated": "2026-11-12T03:12:11.726Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-7-3df8a668.jpg": "05qk87j31r_1794200650233_file_pF-SILVRzG.jpg",
+      "/airo-assets/uploads/marathax-gallery-7-4e13a31a.png": "05qk87j31r_1794453061515_file_5qqV-EHRhr.png"
+    },
+    "uploadContentHash": "30877bfeb50908d261f42182389907bd9582a32d496da38ec4ab388fd75d3f92",
+    "caption": "crossfit workout exercise routine guide"
+  },
+  "marathax/gallery-9": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-9-7146438e.png",
+    "searchQuery": "maratha x obstacle course event setup",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-9-53c01e34.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T05:06:31.400Z",
+    "lastUpdated": "2026-11-12T03:13:55.169Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-9-53c01e34.jpg": "05qk87j31r_1794200231242_file_4THfIHYYfO.jpg",
+      "/airo-assets/uploads/marathax-gallery-9-7146438e.png": "05qk87j31r_1794453230290_file_7c6BcU3eK2.png"
+    },
+    "uploadContentHash": "50f296342624651f5eda95ac97f251107180ca98a6bf706ddd8917be051fc1ab",
+    "caption": "maratha x obstacle course event setup"
+  },
+  "marathax/gallery-10": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-10-2af92739.png",
+    "searchQuery": "maratha x outdoor fitness event gathering",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-10-44367db4.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T05:06:31.712Z",
+    "lastUpdated": "2026-11-12T03:14:36.669Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-10-44367db4.jpg": "05qk87j31r_1794199428462_file_mitiiWG3uf.jpg",
+      "/airo-assets/uploads/marathax-gallery-10-2af92739.png": "05qk87j31r_1794453269083_file_FtEXEHkrxx.png"
+    },
+    "uploadContentHash": "98bd09bf5261ee79c53db55fbc8916e71e23dfcdc153825daca34b51796b90fa",
+    "caption": "maratha x outdoor fitness event gathering"
+  },
+  "marathax/gallery-8": {
+    "mediaType": "video",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-8-75e8b1b9.mp4",
+    "searchQuery": "four people carrying stretcher on field",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-8-24e00fbb.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T05:06:31.943Z",
+    "lastUpdated": "2026-11-12T03:13:16.197Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-8-24e00fbb.jpg": "05qk87j31r_1794200574403_file_50VJO7tUkG.jpg",
+      "/airo-assets/uploads/marathax-gallery-8-75e8b1b9.mp4": "05qk87j31r_1794453191454_file_iIC8Tq5iFT.mp4"
+    },
+    "uploadContentHash": "75e8b1b9464429be24d00e659b8db500e79d170bf1e6e68e1c18ee67f35e2ef1",
+    "caption": "four people carrying stretcher on field"
+  },
+  "marathax/gallery-11": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-11-f975c329.png",
+    "searchQuery": "maratha x fitness challenge outdoor event",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-10-2af92739.png",
+      "/airo-assets/uploads/marathax-gallery-11-17d0f259.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T05:10:58.160Z",
+    "lastUpdated": "2026-11-12T03:15:50.889Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-11-17d0f259.jpg": "05qk87j31r_1794201024954_file_buqf9Fn5LF.jpg",
+      "/airo-assets/uploads/marathax-gallery-11-f975c329.png": "05qk87j31r_1794453336667_file_rD6024Xzvp.png"
+    },
+    "uploadContentHash": "ea9f561dffad4b2ed99d11883a40153bb3cf3d9e3fe9671155fc3bc996e9cffc",
+    "caption": "maratha x fitness challenge outdoor event"
+  },
+  "marathax/gallery-13": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-13-69f10e75.jpg",
+    "searchQuery": "athlete receiving trophy at awards ceremony",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T16:53:55.377Z",
+    "lastUpdated": "2026-11-09T16:53:55.377Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-13-69f10e75.jpg": "05qk87j31r_1794242683676_file_4kusTZ2q-l.jpeg"
+    },
+    "uploadContentHash": "b7d46525b2bd6c86088550314616b46dfbfae695503c5e7d008880541448088b",
+    "caption": "athlete receiving trophy at awards ceremony"
+  },
+  "marathax/gallery-12": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-12-3bd086a4.jpg",
+    "searchQuery": "two athletes posing with hyfit games medals",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T16:53:57.550Z",
+    "lastUpdated": "2026-11-09T16:53:57.550Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-12-3bd086a4.jpg": "05qk87j31r_1794242683672_file_cQfOB9Aq7l.jpeg"
+    },
+    "uploadContentHash": "0ccd3b9563013360d0e996bd5d95781a4b0d55cf1ded49d4626227235cfd5914",
+    "caption": "two athletes posing with hyfit games medals"
+  },
+  "marathax/gallery-14": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-14-4225372b.jpg",
+    "searchQuery": "athlete navigating obstacle course race",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T16:53:58.431Z",
+    "lastUpdated": "2026-11-09T16:53:58.431Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-14-4225372b.jpg": "05qk87j31r_1794242683678_file_jiSYE96P0P.jpeg"
+    },
+    "uploadContentHash": "ba8f0a64892e21d958104de8b1b559da38d2e872fba5a9ee3c60a5a1a42c5ad5",
+    "caption": "athlete navigating obstacle course race"
+  },
+  "marathax/gallery-15": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-15-a4b8099a.jpg",
+    "searchQuery": "muscular man flexing arms fire backdrop",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T16:53:58.868Z",
+    "lastUpdated": "2026-11-09T16:53:58.868Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-15-a4b8099a.jpg": "05qk87j31r_1794242679268_file_EP-vSrp95X.jpeg"
+    },
+    "uploadContentHash": "c5d24ca6eb1451b70443ac5441fbfe6415b374974faa012db88099b3e3ca20bc",
+    "caption": "muscular man flexing arms fire backdrop"
+  },
+  "marathax/gallery-18": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-18-574fc6bc.png",
+    "searchQuery": "marathon warrior hybrid obstacle race medal",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-18-53c01e34.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T16:54:03.821Z",
+    "lastUpdated": "2026-11-12T03:18:12.147Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-18-53c01e34.jpg": "05qk87j31r_1794200231242_file_4THfIHYYfO.jpg",
+      "/airo-assets/uploads/marathax-gallery-18-574fc6bc.png": "05qk87j31r_1794453450350_file_Rbyns8oTvp.png"
+    },
+    "uploadContentHash": "1e607420d9d9cf1d1b93d079cbfd68cfcf0bca8f67255e2bcf5f24ae46dd6091",
+    "caption": "marathon warrior hybrid obstacle race medal"
+  },
+  "marathax/gallery-16": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-16-5f4e51e6.jpg",
+    "searchQuery": "maratha fitness competition tournament poster",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T16:54:04.263Z",
+    "lastUpdated": "2026-11-09T16:54:04.263Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-16-5f4e51e6.jpg": "05qk87j31r_1794199152984_file_rUoQlCerN9.jpg"
+    },
+    "uploadContentHash": "5371f1f21c2794e77c8dcb588f828d4dfcd62760e4d86da2d5543e7464974107",
+    "caption": "maratha fitness competition tournament poster"
+  },
+  "marathax/gallery-17": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-17-71fb1dab.jpg",
+    "searchQuery": "purple neon athletic running shoe design",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-17-eb6c1eba.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T16:54:04.532Z",
+    "lastUpdated": "2026-11-12T03:16:41.388Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-17-eb6c1eba.jpg": "05qk87j31r_1794199302732_file_2ZrwHIsZ8j.jpg",
+      "/airo-assets/uploads/marathax-gallery-17-71fb1dab.jpg": "05qk87j31r_1794453396491_file__UEpQMaU90.jpeg"
+    },
+    "uploadContentHash": "200ad7683eb65615b1fb93a033b274fddb2b23b1536b2421bff3c489b85f5fb1",
+    "caption": "purple neon athletic running shoe design"
+  },
+  "marathax/station-tyre-flip": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/powerful-athlete-flipping-a-massive-heav-QIOg5P.png",
+    "searchQuery": "athlete flipping tire fitness competition",
+    "caption": "athlete flipping tire fitness competition",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/powerful-athlete-flipping-a-massive-heav-QIOg5P.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:06:05.917Z",
+    "lastUpdated": "2026-11-09T17:06:05.917Z"
+  },
+  "marathax/station-net-crawl": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/657690868",
+    "searchQuery": "soldier army low crawl under net obstacle course military training",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/657681752",
+      "https://img1.wsimg.com/isteam/getty/1131567733",
+      "https://img1.wsimg.com/isteam/getty/657691526",
+      "https://img1.wsimg.com/isteam/getty/1155432511",
+      "https://img1.wsimg.com/isteam/getty/533727228",
+      "https://img1.wsimg.com/isteam/getty/657428422",
+      "https://img1.wsimg.com/isteam/getty/2170586758"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:06:06.504Z",
+    "lastUpdated": "2026-11-09T17:16:40.345Z",
+    "gettyId": "657690868",
+    "alternativeGettyIds": [
+      "657681752",
+      "1131567733",
+      "657691526",
+      "1155432511",
+      "533727228",
+      "657428422",
+      "2170586758"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/athlete-low-crawling-under-a-military-ne-SQogn1.png"
+    ]
+  },
+  "marathax/station-dumbbell-stepups": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/dramatic-action-shot-of-a-muscular-athle-AiBWuZ.png",
+    "searchQuery": "muscular athlete dumbbell step-ups fitness competition",
+    "caption": "muscular athlete dumbbell step-ups fitness competition",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/dramatic-action-shot-of-a-muscular-athle-AiBWuZ.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:06:07.025Z",
+    "lastUpdated": "2026-11-09T17:06:07.025Z"
+  },
+  "marathax/station-sandbag-lunges": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "minimumSize": "large",
+    "mediaType": "image",
+    "currentUrl": "https://img1.wsimg.com/isteam/getty/2266214054",
+    "searchQuery": "athlete sandbag walking lunges fitness competition",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/2271426094",
+      "https://img1.wsimg.com/isteam/getty/1213931354",
+      "https://img1.wsimg.com/isteam/getty/1201386643",
+      "https://img1.wsimg.com/isteam/getty/2288719621"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:06:07.040Z",
+    "lastUpdated": "2026-11-09T17:12:20.557Z",
+    "gettyId": "2266214054",
+    "alternativeGettyIds": [
+      "2271426094",
+      "1213931354",
+      "1201386643",
+      "2288719621"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/athlete-doing-walking-lunges-with-a-heav-ZA720z.png"
+    ]
+  },
+  "marathax/station-burpees": {
+    "orientations": "horizontal",
+    "graphicalStyles": "photography",
+    "sortOrder": "best_match",
+    "minimumSize": "large",
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/muscular-male-athlete-mid-burpee-jump-ar-amc7JU.png",
+    "searchQuery": "muscular athlete mid-burpee jump crossfit",
+    "alternatives": [
+      "https://img1.wsimg.com/isteam/getty/493912830",
+      "https://img1.wsimg.com/isteam/getty/493913138"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:06:08.168Z",
+    "lastUpdated": "2026-11-09T17:15:06.915Z",
+    "alternativeGettyIds": [
+      "493912830",
+      "493913138"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/muscular-male-athlete-mid-burpee-jump-ar-amc7JU.png",
+      "/airo-assets/uploads/athlete-doing-explosive-burpees-in-a-fit-qn0Cp3.png"
+    ],
+    "caption": "muscular athlete mid-burpee jump crossfit"
+  },
+  "marathax/station-basketball-shot": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/athlete-shooting-a-basketball-into-a-hoo-y3Sgjj.png",
+    "searchQuery": "athlete shooting basketball final competition",
+    "caption": "athlete shooting basketball final competition",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/athlete-shooting-a-basketball-into-a-hoo-y3Sgjj.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:06:08.189Z",
+    "lastUpdated": "2026-11-09T17:06:08.189Z"
+  },
+  "marathax/station-farmer-carry": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/powerful-athlete-doing-farmer-carry-with-VAljyw.png",
+    "searchQuery": "athlete carrying kettlebells military competition",
+    "caption": "athlete carrying kettlebells military competition",
+    "alternatives": [
+      "/airo-assets/uploads/powerful-athlete-carrying-heavy-farmer-c-7f3SB2.png"
+    ],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/powerful-athlete-doing-farmer-carry-with-VAljyw.png",
+      "/airo-assets/uploads/powerful-athlete-carrying-heavy-farmer-c-7f3SB2.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:06:09.268Z",
+    "lastUpdated": "2026-11-09T17:09:27.662Z"
+  },
+  "marathax/ambassador-3": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/remove-the-yoddha-race-logo-from-the-top-KJYYU6.png",
+    "searchQuery": "",
+    "caption": "",
+    "alternatives": [],
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/remove-the-yoddha-race-logo-from-the-top-KJYYU6.png"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:20:08.617Z",
+    "lastUpdated": "2026-11-09T17:20:08.617Z"
+  },
+  "marathax/ambassador-4": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-ambassador-4-d91e2838.jpg",
+    "searchQuery": "two athletes displaying hyfit games medals",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:20:16.429Z",
+    "lastUpdated": "2026-11-09T17:20:16.429Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-ambassador-4-d91e2838.jpg": "05qk87j31r_1794244780971_file_ErlzfhaGSo.jpg"
+    },
+    "uploadContentHash": "3bd086a4f102f760a76efaf71536f5339070683623f4362379a871284148367f",
+    "caption": "two athletes displaying hyfit games medals"
+  },
+  "marathax/ambassador-5": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-ambassador-5-da12d490.jpg",
+    "searchQuery": "athlete receiving trophy at awards ceremony",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:20:17.009Z",
+    "lastUpdated": "2026-11-09T17:20:17.009Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-ambassador-5-da12d490.jpg": "05qk87j31r_1794244780973_file_PoiockNe4S.jpg"
+    },
+    "uploadContentHash": "69f10e751e7db28ba59ad3dac651ecd4dabe798937fdab4daaddb3c309e256d5",
+    "caption": "athlete receiving trophy at awards ceremony"
+  },
+  "marathax/prize-shoes": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-prize-shoes-7c2ac1ff.png",
+    "searchQuery": "purple neon athletic running shoe",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-09T17:37:22.446Z",
+    "lastUpdated": "2026-11-09T17:37:22.446Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-prize-shoes-7c2ac1ff.png": "05qk87j31r_1794245804677_file_SK42HPHAKh.png"
+    },
+    "uploadContentHash": "9739703cbdd41492697d5ced88f265d98f67273f6abf88c574aeea501f2ffb44",
+    "caption": "purple neon athletic running shoe"
+  },
+  "marathax/ambassador-6": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/remove-all-third-party-branding-from-thi-sCsEnk.png",
+    "searchQuery": "race participant receiving medal at finish line",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-ambassador-6-744e07d4.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T22:50:25.363Z",
+    "lastUpdated": "2026-11-09T22:50:58.040Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-ambassador-6-744e07d4.jpg": "05qk87j31r_1794264538552_file_VH4u5Ma2o4.jpeg"
+    },
+    "uploadContentHash": "f583fcd74c3c465acf39273e84753b2e1c4b44037eff5d2509e057a1ca15765b",
+    "caption": "race participant receiving medal at finish line",
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/remove-all-third-party-branding-from-thi-sCsEnk.png"
+    ]
+  },
+  "marathax/gallery-19": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/remove-all-third-party-branding-from-thi-24wP5H.png",
+    "searchQuery": "rotary quest half marathon award ceremony podium",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-19-ee5fc669.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T22:50:28.937Z",
+    "lastUpdated": "2026-11-09T22:50:59.836Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-19-ee5fc669.jpg": "05qk87j31r_1794264538550_file_b2T7X6o5Np.jpeg"
+    },
+    "uploadContentHash": "8d60a1a7ce6869e29d63a2776d17575ccab2e24b01c393390c618f83471f4320",
+    "caption": "rotary quest half marathon award ceremony podium",
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/remove-all-third-party-branding-from-thi-24wP5H.png"
+    ]
+  },
+  "marathax/gallery-20": {
+    "mediaType": "generated",
+    "currentUrl": "/airo-assets/uploads/remove-all-third-party-branding-from-thi-4VihHP.png",
+    "searchQuery": "athletes receiving trophy at sports event",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-20-088a3fe3.jpg"
+    ],
+    "userModified": true,
+    "createdAt": "2026-11-09T22:50:32.077Z",
+    "lastUpdated": "2026-11-09T22:50:58.452Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-gallery-20-088a3fe3.jpg": "05qk87j31r_1794264538551_file_49moVv18St.jpeg"
+    },
+    "uploadContentHash": "d4a02c02c88ade35a3ce8eaae906d4769bb32f988bf4fda2def3320238bdd22c",
+    "caption": "athletes receiving trophy at sports event",
+    "aiGeneratedUrls": [
+      "/airo-assets/uploads/remove-all-third-party-branding-from-thi-4VihHP.png"
+    ]
+  },
+  "marathax/upi-qr-code": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-upi-qr-code-a9e5f15c.jpg",
+    "searchQuery": "kotak811 upi payment qr code display",
+    "alternatives": [],
+    "userModified": true,
+    "createdAt": "2026-11-10T18:07:51.829Z",
+    "lastUpdated": "2026-11-10T18:07:51.829Z",
+    "uploadSources": {
+      "/airo-assets/uploads/marathax-upi-qr-code-a9e5f15c.jpg": "05qk87j31r_1794334033822_file_OSkhqI_y_C.jpeg"
+    },
+    "uploadContentHash": "686b0645b4af0371caaa6bb4b72a887298b75582d578a7584193926bc8e2f981",
+    "caption": "kotak811 upi payment qr code display"
+  },
+  "imported/image-1794453132248": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-7-3df8a668.jpg",
+    "searchQuery": "vintage horse riding instruction sequence photos",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-7-3df8a668.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "marathax/gallery-7",
+    "createdAt": "2026-11-12T03:12:12.248Z",
+    "lastUpdated": "2026-11-12T03:12:12.248Z",
+    "caption": "vintage horse riding instruction sequence photos"
+  },
+  "imported/image-1794453197027": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-8-24e00fbb.jpg",
+    "searchQuery": "mobile app interface dark theme",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-8-24e00fbb.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "marathax/gallery-8",
+    "createdAt": "2026-11-12T03:13:17.027Z",
+    "lastUpdated": "2026-11-12T03:13:17.027Z",
+    "caption": "mobile app interface dark theme"
+  },
+  "imported/image-1794453235578": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-9-53c01e34.jpg",
+    "searchQuery": "drum machine synthesizer interface controls",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-9-53c01e34.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "marathax/gallery-9",
+    "createdAt": "2026-11-12T03:13:55.578Z",
+    "lastUpdated": "2026-11-12T03:13:55.578Z",
+    "caption": "drum machine synthesizer interface controls"
+  },
+  "imported/image-1794453277359": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-10-44367db4.jpg",
+    "searchQuery": "mobile app interface dark theme menu",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-10-44367db4.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "marathax/gallery-10",
+    "createdAt": "2026-11-12T03:14:37.360Z",
+    "lastUpdated": "2026-11-12T03:14:37.360Z",
+    "caption": "mobile app interface dark theme menu"
+  },
+  "imported/image-1794453305368": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-11-17d0f259.jpg",
+    "searchQuery": "vintage western movie stills collection",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-11-17d0f259.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "marathax/gallery-11",
+    "createdAt": "2026-11-12T03:15:05.368Z",
+    "lastUpdated": "2026-11-12T03:15:05.368Z",
+    "caption": "vintage western movie stills collection"
+  },
+  "imported/image-1794453401790": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-17-eb6c1eba.jpg",
+    "searchQuery": "mobile app interface dark theme orange accents",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-17-eb6c1eba.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "marathax/gallery-17",
+    "createdAt": "2026-11-12T03:16:41.790Z",
+    "lastUpdated": "2026-11-12T03:16:41.790Z",
+    "caption": "mobile app interface dark theme orange accents"
+  },
+  "imported/image-1794453492616": {
+    "mediaType": "image",
+    "currentUrl": "/airo-assets/uploads/marathax-gallery-18-53c01e34.jpg",
+    "searchQuery": "drum machine synthesizer interface controls",
+    "alternatives": [
+      "/airo-assets/uploads/marathax-gallery-18-53c01e34.jpg"
+    ],
+    "userModified": false,
+    "displacedFrom": "marathax/gallery-18",
+    "createdAt": "2026-11-12T03:18:12.617Z",
+    "lastUpdated": "2026-11-12T03:18:12.617Z",
+    "caption": "drum machine synthesizer interface controls"
+  }
+}

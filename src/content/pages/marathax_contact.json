@@ -1,0 +1,41 @@
+{
+  "hero": {
+    "eyebrow": "GET IN TOUCH",
+    "title": "CONTACT US",
+    "body": "Questions about the event, registration or sponsorship? Reach out to the MARATHAX team."
+  },
+  "channels": [
+    {
+      "id": "ch1",
+      "type": "instagram",
+      "label": "Instagram",
+      "handle": "@marathaxindia",
+      "href": "https://www.instagram.com/marathaxindia",
+      "note": "Follow for updates and announcements"
+    },
+    {
+      "id": "ch2",
+      "type": "whatsapp",
+      "label": "WhatsApp",
+      "handle": "+91 73041 03956",
+      "href": "https://wa.me/917304103956",
+      "note": "Message us for quick queries"
+    },
+    {
+      "id": "ch3",
+      "type": "email",
+      "label": "Email",
+      "handle": "registration@marathax.com",
+      "href": "mailto:registration@marathax.com",
+      "note": "For detailed enquiries and partnerships"
+    }
+  ],
+  "form": {
+    "title": "SEND A MESSAGE",
+    "namePlaceholder": "Your full name",
+    "emailPlaceholder": "Your email address",
+    "subjectPlaceholder": "Subject",
+    "messagePlaceholder": "Your message",
+    "submitLabel": "SEND MESSAGE"
+  }
+}

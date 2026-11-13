@@ -1,0 +1,170 @@
+{
+  "hero": {
+    "eyebrow": "EVENT FORMAT",
+    "title": "THE GAUNTLET",
+    "body": "Seven 200m runs. Seven workout stations. Alternate between explosive sprints and demanding functional exercises — this is MARATHAX."
+  },
+  "overview": {
+    "eyebrow": "HOW IT WORKS",
+    "title": "RUN. WORK. REPEAT.",
+    "body": "Athletes alternate between a 200m run and a functional workout station. Complete all reps at each station before moving to the next run. Your total time is your score."
+  },
+  "runSections": {
+    "eyebrow": "RUNNING SECTIONS",
+    "title": "6 × 200M RUNS",
+    "body": "Every station is preceded by a 200m run. Seven runs total across the full course.",
+    "items": [
+      {
+        "id": "r1",
+        "number": "01",
+        "label": "200m Run",
+        "detail": "Opening run — leads into Dumbbell Step-Ups"
+      },
+      {
+        "id": "r2",
+        "number": "02",
+        "label": "200m Run",
+        "detail": "Transition run — leads into Farmer Carry"
+      },
+      {
+        "id": "r3",
+        "number": "03",
+        "label": "200m Run",
+        "detail": "Transition run — leads into Sandbag Lunges / Cognitive Cross Cone Challenge (Kids)"
+      },
+      {
+        "id": "r4",
+        "number": "04",
+        "label": "200m Run",
+        "detail": "Transition run — leads into Net Crawl"
+      },
+      {
+        "id": "r5",
+        "number": "05",
+        "label": "200m Run",
+        "detail": "Transition run — leads into Tyre Flip"
+      },
+      {
+        "id": "r6",
+        "number": "06",
+        "label": "200m Run",
+        "detail": "Transition run — leads into Burpees"
+      },
+      {
+        "id": "r7",
+        "number": "07",
+        "label": "200m Run",
+        "detail": "Final run — leads into Basketball Shot to finish"
+      }
+    ]
+  },
+  "stations": {
+    "eyebrow": "WORKOUT STATIONS",
+    "title": "7 FUNCTIONAL STATIONS",
+    "body": "Each station tests a different physical quality. Reps and weights are scaled by category. All reps must be completed before proceeding to the next run.",
+    "items": [
+      {
+        "id": "st1",
+        "number": "01",
+        "label": "Dumbbell Step-Ups",
+        "reps": "20 Reps",
+        "detail": "Weighted step-ups onto a box targeting quads, glutes and single-leg stability. Men: 2×10 kg · Women: 2×5 kg · Kids (Rising Star): 2×2 kg, 10 reps."
+      },
+      {
+        "id": "st2",
+        "number": "02",
+        "label": "Farmer Carry",
+        "reps": "100m / 50m",
+        "detail": "Heavy loaded carry for grip strength, core bracing and total-body endurance. Men: 2×20 kg, 100m · Women: 2×15 kg, 100m · Kids: 2×2 kg, 50m."
+      },
+      {
+        "id": "st3",
+        "number": "03",
+        "label": "Sandbag Lunges",
+        "reps": "100m",
+        "detail": "Walking lunges with a sandbag — legs, core and balance under load. Men: 20 kg, 100m · Women: 10 kg, 100m. Kids (Rising Star): replaced by Cognitive Cross Cone Challenge — 50m agility pattern."
+      },
+      {
+        "id": "st4",
+        "number": "04",
+        "label": "Net Crawl",
+        "reps": "25m",
+        "detail": "Low crawl under a military-style net — full-body coordination, shoulder endurance and mental grit. 25 metres for all categories."
+      },
+      {
+        "id": "st5",
+        "number": "05",
+        "label": "Tyre Flip",
+        "reps": "20 Reps",
+        "detail": "Explosive posterior chain power — drive through the hips to flip a heavy tyre. 20 reps for all categories (tyre weight scaled per category)."
+      },
+      {
+        "id": "st6",
+        "number": "06",
+        "label": "Burpees",
+        "reps": "30 / 10 Reps",
+        "detail": "Full-body explosive movement. Men, Women & Doubles: 30 reps. Kids (Rising Star): 10 reps."
+      },
+      {
+        "id": "st7",
+        "number": "07",
+        "label": "Basketball Shot",
+        "reps": "1 Shot",
+        "detail": "Final station — sink 1 basketball shot to complete the race. Must score before the clock stops. Applies to all categories."
+      }
+    ]
+  },
+  "rules": {
+    "eyebrow": "COMPETITION RULES",
+    "title": "THE CODE",
+    "items": [
+      {
+        "id": "ru1",
+        "rule": "All reps at each station must be completed before moving to the next run section."
+      },
+      {
+        "id": "ru2",
+        "rule": "Judges are stationed at every workout station to validate reps. No-reps must be redone."
+      },
+      {
+        "id": "ru3",
+        "rule": "Athletes must stay within their designated lane during running sections."
+      },
+      {
+        "id": "ru4",
+        "rule": "Equipment must be returned to the starting position after each station."
+      },
+      {
+        "id": "ru5",
+        "rule": "Assistance from other athletes is not permitted in individual categories."
+      },
+      {
+        "id": "ru6",
+        "rule": "In Doubles, both athletes must complete all reps together or split them as they choose."
+      },
+      {
+        "id": "ru7",
+        "rule": "Any form of performance-enhancing substance is strictly prohibited."
+      },
+      {
+        "id": "ru8",
+        "rule": "The decision of judges is final. Disputes must be raised before the next station begins."
+      },
+      {
+        "id": "ru9",
+        "rule": "Basketball Shot (Station 7): the athlete must score 1 basket before the clock stops. No limit on attempts — time continues until the shot is made."
+      }
+    ]
+  },
+  "participation": {
+    "eyebrow": "PARTICIPATION FORMATS",
+    "individual": {
+      "title": "INDIVIDUAL",
+      "body": "Compete alone. Your time is your score. Ranked against all athletes in your category."
+    },
+    "doubles": {
+      "title": "DOUBLES",
+      "body": "Compete as a pair. Both athletes run together and split or share reps at each station. Combined finish time is your score."
+    }
+  }
+}
