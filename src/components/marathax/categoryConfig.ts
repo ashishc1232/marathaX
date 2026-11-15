@@ -46,23 +46,12 @@ export const CATEGORY_CONFIG: Record<string, CategoryInfo> = {
     fee: 1799,
     prizes: ['₹15,000', '₹10,000', '₹5,000', 'Running Shoes', 'Smart Watch'],
   },
-  'Male Doubles (18–55)': {
-    label: 'Male Doubles (18–55)',
-    group: 'doubles',
-    fee: 2799,
-    prizes: ['₹10,000', '₹5,000', '₹3,000'],
-  },
-  'Female Doubles (18–55)': {
-    label: 'Female Doubles (18–55)',
-    group: 'doubles',
-    fee: 2799,
-    prizes: ['₹10,000', '₹5,000', '₹3,000'],
-  },
-  'Mixed Doubles (18–55)': {
+  
+  'Mixed  (18–55)': {
     label: 'Mixed Doubles (18–55)',
     group: 'doubles',
     fee: 2799,
-    prizes: ['₹10,000', '₹5,000', '₹3,000'],
+    prizes: ['₹15,000', '₹10,000', '₹5,000'],
   },
   'Rising Star (8–15)': {
     label: 'Rising Star (8–15)',
